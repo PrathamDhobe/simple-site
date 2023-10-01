@@ -9,18 +9,20 @@ a,
 p,
 h3,
 footer {
-  padding: 0;
-  margin: 0;
-  border: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
+
 body {
-  background-image: url(https://mocah.org/mocahbig/21090-Cat-Hacker.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  font-family: "Poppins", sans-serif;
-  color: white;
+    background-image: url(https://mocah.org/mocahbig/21090-Cat-Hacker.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+    color: white;
 }
+
 .container{
   align-items: center;
 }
